@@ -1,0 +1,12 @@
+D:\Application1\Application.App\Application.App.Persistence\obj\Debug\netstandard2.1\Application.App.Persistence.csprojAssemblyReference.cache
+D:\Application1\Application.App\Application.App.Persistence\obj\Debug\netstandard2.1\Application.App.Persistence.AssemblyInfoInputs.cache
+D:\Application1\Application.App\Application.App.Persistence\obj\Debug\netstandard2.1\Application.App.Persistence.AssemblyInfo.cs
+D:\Application1\Application.App\Application.App.Persistence\obj\Debug\netstandard2.1\Application.App.Persistence.csproj.CoreCompileInputs.cache
+D:\Application1\Application.App\Application.App.Persistence\bin\Debug\netstandard2.1\Application.App.Persistence.deps.json
+D:\Application1\Application.App\Application.App.Persistence\bin\Debug\netstandard2.1\Application.App.Persistence.dll
+D:\Application1\Application.App\Application.App.Persistence\bin\Debug\netstandard2.1\Application.App.Persistence.pdb
+D:\Application1\Application.App\Application.App.Persistence\bin\Debug\netstandard2.1\Application.App.Domain.dll
+D:\Application1\Application.App\Application.App.Persistence\bin\Debug\netstandard2.1\Application.App.Domain.pdb
+D:\Application1\Application.App\Application.App.Persistence\obj\Debug\netstandard2.1\Application.App.Persistence.csproj.CopyComplete
+D:\Application1\Application.App\Application.App.Persistence\obj\Debug\netstandard2.1\Application.App.Persistence.dll
+D:\Application1\Application.App\Application.App.Persistence\obj\Debug\netstandard2.1\Application.App.Persistence.pdb

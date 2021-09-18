@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Application1\\Application.App\\Application.App.displayC\\Application.App.displayC.csproj": {}
+  },
+  "projects": {
+    "D:\\Application1\\Application.App\\Application.App.displayC\\Application.App.displayC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Application1\\Application.App\\Application.App.displayC\\Application.App.displayC.csproj",
+        "projectName": "Application.App.displayC",
+        "projectPath": "D:\\Application1\\Application.App\\Application.App.displayC\\Application.App.displayC.csproj",
+        "packagesPath": "C:\\Users\\josez\\.nuget\\packages\\",
+        "outputPath": "D:\\Application1\\Application.App\\Application.App.displayC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\josez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
