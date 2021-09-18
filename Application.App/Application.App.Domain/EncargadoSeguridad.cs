@@ -2,8 +2,8 @@ using System;
 
 namespace Application.App.Domain
 {
-    public class TecnicoMantenimineto:Persona
-    { 
+    public class EncargadoSeguridad:Persona
+    {
         
     }
 }

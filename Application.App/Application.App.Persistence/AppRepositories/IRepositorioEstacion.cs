@@ -6,10 +6,10 @@ namespace Application.App.Persistence
 {
     public interface IRepositorioEstacion
     {
-        IEnumerable<Persona> getAllEstaciones();
-        Estacion addPersona( Estacion estacion);
+        IEnumerable<Estacion> getAllEstaciones();
+        Estacion addEstacion( Estacion estacion);
         Estacion updateEstacion( Estacion estacion);
-        Estacion getEstaciona(int id);
+        Estacion getEstacion(int id);
         Estacion deleteEstacion(int id);
     
     }
