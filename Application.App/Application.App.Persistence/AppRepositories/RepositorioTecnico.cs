@@ -39,12 +39,12 @@ namespace Application.App.Persistence
             return v_busquedaTecnico;
         }
 
-        IEnumerable<Persona> IrepositorioTecnico.getAllTecnicos()
+        IEnumerable<Persona> IRepositorioTecnico.getAllTecnicos()
         {
             return _appContext.t_tecnicos;
         }
 
-        Persona IrepositorioTecnico.deleteTecnico(int id)
+        Persona IRepositorioTecnico.deleteTecnico(int id)
         {
             v_busquedaTecnico = _appContext.t_tecnicos.FirstOrDefault(p => p.id == id);
             if(v_busquedaTecnico)

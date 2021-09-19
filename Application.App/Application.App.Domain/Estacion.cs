@@ -13,6 +13,7 @@ namespace Application.App.Domain{
         public Reporte reporte{get;set;}
         public char estado{get;set;} // A:ACTIVO I:INACTIVO
         public TecnicoMantenimineto tecnico{get;set;} 
+        public EncargadoSeguridad encargadoSeguridad{get;set;}
         public Administrador admin{get;set;}
         public System.Collections.Generic.List<DatoMeteorologico> datos;
 
