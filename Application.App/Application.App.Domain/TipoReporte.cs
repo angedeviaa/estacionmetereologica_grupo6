@@ -4,7 +4,7 @@ namespace Application.App.Domain
 {
     public enum TipoReporte
     {
-        MONTAJE_ESTACION.
+        MONTAJE_ESTACION,
         MANTENIMIENTO_PREVENTIVO,
         MANTENIMIENTO_CORRECTIVO,
         INFORME_METEOROLOGICO

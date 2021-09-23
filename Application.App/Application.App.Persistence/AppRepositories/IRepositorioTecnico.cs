@@ -1,16 +1,16 @@
 using System;
-using System.Link;
-using System.Collection.Generic;
+using System.Linq;
+using System.Collections.Generic;
 using Application.App.Domain;
 namespace Application.App.Persistence
 {
     public interface IRepositorioTecnico
     {
-        IEnumerable<Persona> getAllTecnicos();
-        Persona addTecnico(Persona p_tecnico);
-        Persona updateTecnico(Persona p_tecnico);
-        Persona getTecnico(int id);
-        Persona deleteTecnico(int id);
+        IEnumerable<TecnicoMantenimineto> getAllTecnicos();
+        TecnicoMantenimineto addTecnico(TecnicoMantenimineto p_tecnico);
+        TecnicoMantenimineto updateTecnico(TecnicoMantenimineto p_tecnico);
+        TecnicoMantenimineto getTecnico(int id);
+        TecnicoMantenimineto deleteTecnico(int id);
     
     }
 }

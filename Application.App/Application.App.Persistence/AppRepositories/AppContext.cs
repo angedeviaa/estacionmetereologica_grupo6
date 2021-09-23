@@ -5,9 +5,9 @@ namespace Application.App.Persistence{
 
     public class AppContext:DbContext{
 
-        public DbSet<Persona> t_tecnicos{get;set;}
-        public DbSet<Persona> t_encargadosSeguridad{get;set;}
-        public DbSet<Persona> t_administradores{get;set;}
+        public DbSet<TecnicoMantenimineto> t_tecnicos{get;set;}
+        public DbSet<EncargadoSeguridad> t_encargadosSeguridad{get;set;}
+        public DbSet<Administrador> t_administradores{get;set;}
         public DbSet<Estacion> t_estaciones{get;set;}
         public DbSet<Reporte> t_reportes{get;set;}
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){

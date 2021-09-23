@@ -1,5 +1,6 @@
 ﻿using System;
-
+using Application.App.Domain;
+using Application.App.persistence;
 namespace Application.App.displayC
 {
     class Program
